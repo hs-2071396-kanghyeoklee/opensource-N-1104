@@ -27,7 +27,7 @@
 
   
 
-  ![image-20221117215924420](C:\Users\wooha\AppData\Roaming\Typora\typora-user-images\image-20221117215924420.png)
+  ![image-20221117215924420](https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117215924420.png)
 
   
 
@@ -43,7 +43,7 @@
 
   
 
-  <img src="C:\Users\wooha\AppData\Roaming\Typora\typora-user-images\image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" />
+  <img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" style="zoom: 67%;" />
 
   
 
