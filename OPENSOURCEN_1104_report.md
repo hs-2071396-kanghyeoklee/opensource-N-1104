@@ -128,7 +128,51 @@
 
 ### 2. Django
 
----
+
+
+
+
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221129002351028.png" alt="image-20221129002351028" width = "40%" height = "40%" /></p>
+
+
+
+* #### Django
+
+  * Django는 파이썬으로 제작된 **오픈소스 웹 프레임워크**이다. 
+  * 비교적 입문이 쉬운 언어인 파이썬으로 제작되어 진입장벽이 높은 편이 아니고 특유의 높은 생산성으로 스타트업에서 사랑받는 프레임워크이다.
+  * Django는 MTV 패턴을 따르는 웹 프레임워크이다.
+    * MTV 패턴 : MTV 패턴은 Model, Template, View의 약자로 모델, 템플릿, 뷰로 구성되어 있다.
+
+
+
+* #### Django의 특징
+
+  * 비교적 쉬운 언어인 파이썬으로 제작되어 진입장벽이 낮다.
+  * MTV 패턴을 따르기 때문에 구조가 명확하다.
+  * Django Template을 제공하여 다른 프론트엔드 프레임워크를 사용하지 않아도 된다.
+  * Django Rest Framework를 사용하면 API를 쉽게 만들 수 있다.
+  * 개발 시 소스코드의 변경을 자동으로 감지해 서버를 재시작하는 기능을 제공하기 때문에 개발 시 편리하다.
+  * 강력한 ORM기능을 제공하여 데이터베이스를 쉽게 다룰 수 있다.
+
+
+
+* #### Django의 라이선스
+
+  Django는 **BSD라이선스**를 적용하고 있다.
+
+  * **[BSD](https://ko.wikipedia.org/wiki/BSD_%ED%97%88%EA%B0%80%EC%84%9C) (Berkeley Software Distribution)** 
+
+    * BSD 허가서는 자유 소프트웨어 저작권의 한 종류이다. 
+
+    * BSD 라이선스는 아무나 개작할 수 있고, 수정한 것을 제한 없이 배포할 수 있다. 다만 수정 본의 재배포는 의무적인 사항이 아니므로 아무런 제한 없이 누구나 자신의 용도로 사용할 수 있고, 공개하지 않아도 되는 상용 소프트웨어에서도 사용할 수 있다. 
+
+    * 대신 사용자의 사용으로 인해 발생하는 모든 책임은 사용자 본인에게 있다.
+
+      <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></p>
+
+  
+
+
 
 
 
@@ -193,7 +237,61 @@
 
 
 
-### 4. Leaflet
+
+
+### 4. NAVER 지도 API (v3)
+
+---
+
+
+
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221129003344985.png" alt="image-20221129003344985"  /></p>
+
+
+
+
+
+
+
+* #### NAVER 지도 API
+
+  NAVER 지도 API는 **JavaScript 형태의 NAVER 지도 플랫폼**으로써, 웹 서비스 또는 애플리케이션에 지도 기능을 구현할 수 있도록 다양한 클래스와 메서드를 제공한다.
+
+
+
+* #### NAVER 지도 API의 특징
+
+  * **독립적인 API**
+
+    * DOM(Document Object Model) 처리 및 웹 브라우저 호환 코드를 내장하고 있어, 다른 프레임워크 또는 라이브러리와 완벽히 독립적으로 동작한다.
+
+      
+
+  * **모바일 최적화**
+
+    * 대부분의 모바일 단말기에서도 최적의 성능으로 동작할 수 있도록 설계되었다.
+
+    * 기본적으로 CSS3 Transform 속성을 활용하고, 특정 웹 브라우저 또는 단말기의 성능이 낮은 환경에서는 자동으로 CSS2 렌더링 방식을 이용하여 각각의 환경에서 최적의 성능으로 동작하여 지도를 표현한다.
+
+      
+
+  * **KVO(Key-Value Observing) 디자인**
+
+    *  [KVO](https://navermaps.github.io/maps.js/docs/naver.maps.KVO.html) 클래스를 상속받은 클래스는 사용자가 관심있는 속성을 바인딩(bind)함으로써 속성이 변경되었을 때 효율적으로 대응할 수 있다.
+
+      
+
+  * **단일 버전 관리**
+
+    * NAVER 지도 API v3는 단일 버전으로 제공한다.
+
+
+
+
+
+
+
+### 5. Leaflet
 
 ---
 
@@ -253,18 +351,13 @@
 
   <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></p>
 
-  * **[BSD](https://ko.wikipedia.org/wiki/BSD_%ED%97%88%EA%B0%80%EC%84%9C) (Berkeley Software Distribution)** 
-    * BSD 허가서는 자유 소프트웨어 저작권의 한 종류이다. 
-    * BSD 라이선스는 아무나 개작할 수 있고, 수정한 것을 제한 없이 배포할 수 있다. 다만 수정 본의 재배포는 의무적인 사항이 아니므로 아무런 제한 없이 누구나 자신의 용도로 사용할 수 있고, 공개하지 않아도 되는 상용 소프트웨어에서도 사용할 수 있다. 
-    * 대신 사용자의 사용으로 인해 발생하는 모든 책임은 사용자 본인에게 있다.
+  
 
 
 
 
 
-
-
-### 5. Saleor
+### 6. Saleor
 
 ---
 
@@ -384,7 +477,7 @@
 
 
 
-### 6. OSRM (Open Source Routing Machine)
+### 7. OSRM (Open Source Routing Machine)
 
 ---
 
@@ -436,7 +529,7 @@
 
 
 
-### 7.Docker
+### 8.Docker
 
 ---
 
