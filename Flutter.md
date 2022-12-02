@@ -15,7 +15,7 @@ Flutter는 Google에서 개발하고 Mobile World Congress 2018에서 최초 베
 
 하지만 이미 시장에는 모바일 크로스플랫폼 개발하면 떠오르는 프레임워크로 Facebook에서 개발을 주도하는 React-Native가 있으며 많은 개발자분들이 React-Native와 Flutter를 두고 고민을 하는 상황입니다.
 
-3. Flutter는 어떤 프로그래밍 언어를 사용하나요?
+3.Flutter는 어떤 프로그래밍 언어를 사용하나요?
 
 Flutter는 Google이 개발한 오픈 소스 프로그래밍 언어인 Dart를 사용합니다. Dart는 UI를 구축하는 데 최적화되어 있으며, Dart의 많은 강점은 Flutter에서 활용됩니다.
 예를 들어 Flutter에서 사용되는 Dart의 기능 중 하나로 Sound Null Safety 기능이 있습니다. Dart의 Sound Null Safety는 null 오류라는 일반적인 버그를 손쉽게 감지할 수 있도록 해줍니다. 이 기능은 개발자가 코드 유지 관리에 허비하는 시간을 줄이고 애플리케이션 구축에 집중할 수 있는 시간을 더 확보해 줍니다.
